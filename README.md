@@ -5,3 +5,5 @@ I have tried to understand the behaviour of the data, along with what predictive
 1. Who are the customers more likely to churn?
 2. What are the relations between some of the variables.!
 3. What actions can be taken to stop them from leaving?
+
+link- https://www.kaggle.com/datasets/barun2104/telecom-churn
